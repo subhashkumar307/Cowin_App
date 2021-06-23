@@ -40,11 +40,11 @@
     font-size: 21px;
     font-weight: bolder;
 }
-a:hover
+/* a:hover
 {
-    background-color: white;
+    background-color: red;
     text-decoration: none;
-}
+ }  */
 .know-more
 {
     border: 2px solid black;
